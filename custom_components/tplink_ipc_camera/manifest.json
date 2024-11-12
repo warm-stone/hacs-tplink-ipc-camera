@@ -1,0 +1,8 @@
+{
+  "domain": "tplink_ipc_camera",
+  "documentation": "https://www.home-assistant.io/integrations/tplink_ipc_camera",
+  "issue_tracker": "",
+  "codeowners": ["@warm-stone"],
+  "name": "tplink_ipc_camera",
+  "version": "0.0.1"
+}
